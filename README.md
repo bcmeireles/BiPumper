@@ -1,3 +1,6 @@
+## Discontinued
+This bot is no longer maintained and will not receive any more updates in the future.
+
 # BiPumper
  Automated bot for [Binance](https://www.binance.com/) to take advantage of Pump and Dumps groups to achieve the best profits.
 
